@@ -971,6 +971,7 @@ Products Page
 .project-details {
   padding: 2rem 1.5rem;
 }
+
 .project-footer {
   display: grid;
   grid-template-columns: 1fr 1fr;
